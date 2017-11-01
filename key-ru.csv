@@ -1465,6 +1465,7 @@ Ability_Cthulhuphant2_IMPACT_effect,"Активируйте, чтобы ежес
 State_Cthulhuphant_Ability2_name,Obliterate
 State_Cthulhuphant_Ability2_description,Постираем ваши вещи!!
 Ability_Cthulhuphant3_name,Maddening Revenge
+
 Ability_Cthulhuphant3_description,"Когда вы получаете прямой физический урон, вы наносите нападавшему ^o{20,30,40,50}% физического урона от силы вашего героя^* (2х против существ)."
 Ability_Cthulhuphant3_description2,
 Ability_Cthulhuphant3_description_simple,"Когда вы получаете прямой физический урон, вы наносите нападавшему ^o{20,30,40,50}% физического урона от силы вашего героя^* (2х против существ)."
